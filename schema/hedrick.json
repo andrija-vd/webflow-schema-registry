@@ -1,0 +1,205 @@
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.veza.network/agencies/hedrick#webpage",
+    "url": "https://www.veza.network/agencies/hedrick",
+    "name": "Hedrick - Compliant Enterprise Webflow Development",
+    "description": "SOC2 and HIPAA compliant Webflow development for regulated industries including healthcare, finance, and enterprise.",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://www.veza.network/#website"
+    },
+    "breadcrumb": {
+      "@id": "https://www.veza.network/agencies/hedrick#breadcrumb"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://www.veza.network/agencies/hedrick#organization",
+    "name": "Hedrick",
+    "url": "https://hedrick.io",
+    "description": "SOC2 and HIPAA compliant Webflow development agency specializing in regulated industries.",
+    "parentOrganization": {
+      "@type": "Organization",
+      "name": "Veza Agency Network",
+      "url": "https://www.veza.network"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    },
+    "sameAs": [
+      "https://hedrick.io",
+      "https://www.veza.network/agencies/hedrick"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "@id": "https://www.veza.network/agencies/hedrick#breadcrumb",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.veza.network"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Agencies",
+        "item": "https://www.veza.network/agencies"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Hedrick",
+        "item": "https://www.veza.network/agencies/hedrick"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/hedrick#webflow-development",
+    "serviceType": "Compliant Web Development",
+    "name": "Webflow Development (SOC2/HIPAA Compliant)",
+    "description": "Secure, compliant Webflow development for regulated industries including healthcare, finance, and enterprise organizations requiring SOC2 or HIPAA certification.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Hedrick",
+      "@id": "https://www.veza.network/agencies/hedrick#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    },
+    "audience": {
+      "@type": "Audience",
+      "audienceType": "Regulated industries - healthcare, finance, enterprise"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/hedrick#webflow-design",
+    "serviceType": "Web Design",
+    "name": "Webflow Web Design",
+    "description": "Professional web design services for Webflow websites with focus on user experience, accessibility, and compliance requirements.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Hedrick",
+      "@id": "https://www.veza.network/agencies/hedrick#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/hedrick#webflow-integrations",
+    "serviceType": "System Integration",
+    "name": "Webflow Integrations",
+    "description": "Secure integrations connecting Webflow with enterprise systems, CRMs, and compliance-required platforms for regulated organizations.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Hedrick",
+      "@id": "https://www.veza.network/agencies/hedrick#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/hedrick#webflow-migrations",
+    "serviceType": "Platform Migration",
+    "name": "Webflow Migrations",
+    "description": "Compliant platform migrations to Webflow from legacy systems with data security, audit trails, and zero downtime for regulated industries.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Hedrick",
+      "@id": "https://www.veza.network/agencies/hedrick#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/hedrick#webflow-seo",
+    "serviceType": "Search Engine Optimization",
+    "name": "Webflow SEO",
+    "description": "Technical SEO optimization for compliant Webflow websites balancing search visibility with security and regulatory requirements.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Hedrick",
+      "@id": "https://www.veza.network/agencies/hedrick#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/hedrick#webflow-marketing",
+    "serviceType": "Digital Marketing",
+    "name": "Webflow Marketing & Strategy",
+    "description": "Marketing strategy and execution for compliant Webflow websites including content marketing, lead generation, and conversion optimization.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Hedrick",
+      "@id": "https://www.veza.network/agencies/hedrick#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/hedrick#webflow-animation",
+    "serviceType": "Web Animation",
+    "name": "Webflow Animation & Interaction",
+    "description": "Custom animations and interactive experiences for Webflow websites that enhance user engagement while maintaining performance and accessibility standards.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Hedrick",
+      "@id": "https://www.veza.network/agencies/hedrick#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/hedrick#aeo-optimization",
+    "serviceType": "Answer Engine Optimization",
+    "name": "AEO/LLM Optimization (Generative Engine Optimization)",
+    "description": "AI-powered search optimization for compliant organizations ensuring visibility in ChatGPT, Perplexity, Google AI Overviews while maintaining regulatory compliance.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Hedrick",
+      "@id": "https://www.veza.network/agencies/hedrick#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  }
+]
+</script>
