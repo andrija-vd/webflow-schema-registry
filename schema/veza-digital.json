@@ -1,0 +1,203 @@
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.veza.network/agencies/veza-digital#webpage",
+    "url": "https://www.veza.network/agencies/veza-digital",
+    "name": "Veza Digital - Enterprise Webflow Development & SEO/AEO",
+    "description": "Elite Webflow partner for B2B tech. Enterprise Webflow development, technical SEO & AEO for revenue-driven websites.",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://www.veza.network/#website"
+    },
+    "breadcrumb": {
+      "@id": "https://www.veza.network/agencies/veza-digital#breadcrumb"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://www.veza.network/agencies/veza-digital#organization",
+    "name": "Veza Digital",
+    "url": "https://vezadigital.com",
+    "description": "Elite Webflow partner specializing in enterprise B2B tech. Webflow development, technical SEO, and Answer Engine Optimization.",
+    "parentOrganization": {
+      "@type": "Organization",
+      "name": "Veza Agency Network",
+      "url": "https://www.veza.network"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    },
+    "sameAs": [
+      "https://vezadigital.com",
+      "https://www.veza.network/agencies/veza-digital"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "@id": "https://www.veza.network/agencies/veza-digital#breadcrumb",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.veza.network"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Agencies",
+        "item": "https://www.veza.network/agencies"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Veza Digital",
+        "item": "https://www.veza.network/agencies/veza-digital"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/veza-digital#webflow-service",
+    "serviceType": "Enterprise Webflow Development",
+    "name": "Enterprise Webflow Development",
+    "description": "Scalable, secure, and compliant Webflow sites built for complex B2B needs. Enterprise migrations, multi-product architectures, and governance workflows.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Veza Digital",
+      "@id": "https://www.veza.network/agencies/veza-digital#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/veza-digital#seo-service",
+    "serviceType": "Technical SEO & AEO",
+    "name": "Technical SEO & AEO (Answer Engine Optimization)",
+    "description": "Future-proof organic growth combining technical SEO with Answer Engine Optimization for AI platforms like ChatGPT, Perplexity, and Google AI Overviews.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Veza Digital",
+      "@id": "https://www.veza.network/agencies/veza-digital#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/veza-digital#ux-service",
+    "serviceType": "Revenue-Focused UX Design",
+    "name": "Revenue-Focused UX Design",
+    "description": "Psychology-backed conversion optimization and B2B-specific UX research that drives qualified pipeline.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Veza Digital",
+      "@id": "https://www.veza.network/agencies/veza-digital#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/veza-digital#migration-service",
+    "serviceType": "Platform Migrations & Complex Integrations",
+    "name": "Platform Migrations & Complex Integrations",
+    "description": "Complex migrations from WordPress, HubSpot CMS, Drupal with zero downtime and preserved SEO rankings. Advanced redirect mapping and content migration automation.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Veza Digital",
+      "@id": "https://www.veza.network/agencies/veza-digital#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What makes Veza Digital different from other Webflow agencies?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Veza Digital is the only Webflow agency that combines enterprise-grade development with technical SEO and AEO as core disciplines. We're B2B native and part of Veza Agency Network, providing enterprise project management and AI-powered QA."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What industries does Veza Digital specialize in?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We specialize in B2B technology sectors: B2B SaaS, AI/ML companies, fintech and financial services, and enterprise software. We focus exclusively on B2B tech."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does a typical Veza Digital project take?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Enterprise Webflow migrations take 8-12 weeks. Full redesigns take 10-16 weeks. Platform migrations take 6-10 weeks. SEO & AEO retainers show results in 3-6 months."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is Veza Digital's pricing model?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Project-based pricing for defined scopes and monthly retainers for ongoing work. Enterprise Webflow projects range from $50K-$150K. SEO & AEO retainers start at $8K/month."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can Veza Digital integrate Webflow with our existing marketing stack?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. We specialize in integrations with HubSpot, Salesforce, Marketo, Segment, Google Analytics 4, Stripe, and custom APIs using serverless functions and middleware."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does Veza Digital provide ongoing support after launch?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. We offer monthly retainer support including technical maintenance, performance optimization, A/B testing, and ongoing SEO/AEO optimization with 24-hour response SLA."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is AEO (Answer Engine Optimization) and why does it matter?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AEO is optimizing content for AI-powered search systems like ChatGPT, Perplexity, and Google AI Overviews. It future-proofs organic visibility for the AI-powered search era."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does being part of Veza Agency Network benefit clients?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Veza Digital provides access to VAN OS infrastructure including enterprise project management, unified reporting, AI-powered QA, and seamless collaboration with other network agencies."
+        }
+      }
+    ]
+  }
+]
+</script>
