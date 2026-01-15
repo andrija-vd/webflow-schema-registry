@@ -1,0 +1,184 @@
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.veza.network/agencies/belt-creative#webpage",
+    "url": "https://www.veza.network/agencies/belt-creative",
+    "name": "Belt Creative - Brand Strategy & Growth Marketing",
+    "description": "Brand strategy, web design, and growth marketing agency specializing in Webflow development and digital experiences.",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://www.veza.network/#website"
+    },
+    "breadcrumb": {
+      "@id": "https://www.veza.network/agencies/belt-creative#breadcrumb"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://www.veza.network/agencies/belt-creative#organization",
+    "name": "Belt Creative",
+    "url": "https://beltcreative.com",
+    "description": "Brand strategy, web design, and growth marketing agency specializing in Webflow development and digital experiences.",
+    "parentOrganization": {
+      "@type": "Organization",
+      "name": "Veza Agency Network",
+      "url": "https://www.veza.network"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    },
+    "sameAs": [
+      "https://beltcreative.com",
+      "https://www.veza.network/agencies/belt-creative"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "@id": "https://www.veza.network/agencies/belt-creative#breadcrumb",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.veza.network"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Agencies",
+        "item": "https://www.veza.network/agencies"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Belt Creative",
+        "item": "https://www.veza.network/agencies/belt-creative"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/belt-creative#webflow-design",
+    "serviceType": "Web Design",
+    "name": "Webflow Design & Development",
+    "description": "Custom Webflow website design and development combining brand strategy with modern web experiences.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Belt Creative",
+      "@id": "https://www.veza.network/agencies/belt-creative#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/belt-creative#webflow-enterprise",
+    "serviceType": "Enterprise Web Development",
+    "name": "Webflow Enterprise",
+    "description": "Enterprise-grade Webflow solutions for organizations requiring scalable, secure, and high-performance websites.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Belt Creative",
+      "@id": "https://www.veza.network/agencies/belt-creative#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/belt-creative#webflow-optimize",
+    "serviceType": "Website Optimization",
+    "name": "Webflow Optimize",
+    "description": "Performance optimization, conversion rate optimization, and user experience improvements for Webflow websites.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Belt Creative",
+      "@id": "https://www.veza.network/agencies/belt-creative#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/belt-creative#hubspot",
+    "serviceType": "Marketing Platform Integration",
+    "name": "HubSpot Integration & Development",
+    "description": "HubSpot CMS development, integrations, and marketing automation setup for inbound marketing strategies.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Belt Creative",
+      "@id": "https://www.veza.network/agencies/belt-creative#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/belt-creative#ppc",
+    "serviceType": "Pay-Per-Click Advertising",
+    "name": "PPC Management",
+    "description": "Strategic pay-per-click advertising management across Google Ads, social media platforms, and display networks.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Belt Creative",
+      "@id": "https://www.veza.network/agencies/belt-creative#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/belt-creative#seo",
+    "serviceType": "Search Engine Optimization",
+    "name": "SEO Services",
+    "description": "Comprehensive SEO services including technical optimization, content strategy, and organic search visibility improvement.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Belt Creative",
+      "@id": "https://www.veza.network/agencies/belt-creative#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "@id": "https://www.veza.network/agencies/belt-creative#aeo-optimization",
+    "serviceType": "Answer Engine Optimization",
+    "name": "AEO/LLM Optimization (Generative Engine Optimization)",
+    "description": "Optimization for AI-powered search and answer engines including ChatGPT, Perplexity, and Google AI Overviews.",
+    "provider": {
+      "@type": "Organization",
+      "name": "Belt Creative",
+      "@id": "https://www.veza.network/agencies/belt-creative#organization"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  }
+]
+</script>
